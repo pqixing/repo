@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<manifest>  
+    <remote name="pqixing" fetch="https://github.com/pqixing/" />  
+    <default revision="master" remote="pqixing" />  
+    <project name="qutils" path="qutils"/>  
+    <project name="RootShell" path="RootShell"/>  
+</manifest>  
